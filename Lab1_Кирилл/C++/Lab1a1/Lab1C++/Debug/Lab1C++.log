@@ -1,0 +1,3 @@
+﻿  Coordinate.cpp
+c:\users\matri\myfiles\projects\visual studio\sem6\lab1_кирилл\c++\lab1a1\lab1c++\coordinate.cpp(28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  Lab1C++.vcxproj -> C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1_Кирилл\C++\Lab1a1\Debug\Lab1C++.exe

@@ -1,0 +1,14 @@
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1\C#\Lab1b\Lab1b\bin\Debug\Lab1b.exe.config
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1\C#\Lab1b\Lab1b\bin\Debug\Lab1b.exe
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1\C#\Lab1b\Lab1b\bin\Debug\Lab1b.pdb
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1\C#\Lab1b\Lab1b\obj\Debug\Lab1b.csprojResolveAssemblyReference.cache
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1\C#\Lab1b\Lab1b\obj\Debug\Lab1b.csproj.CoreCompileInputs.cache
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1\C#\Lab1b\Lab1b\obj\Debug\Lab1b.exe
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1\C#\Lab1b\Lab1b\obj\Debug\Lab1b.pdb
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1_Кирилл\C#\Lab1b\Lab1b\bin\Debug\Lab1b.exe.config
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1_Кирилл\C#\Lab1b\Lab1b\bin\Debug\Lab1b.exe
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1_Кирилл\C#\Lab1b\Lab1b\bin\Debug\Lab1b.pdb
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1_Кирилл\C#\Lab1b\Lab1b\obj\Debug\Lab1b.csprojResolveAssemblyReference.cache
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1_Кирилл\C#\Lab1b\Lab1b\obj\Debug\Lab1b.csproj.CoreCompileInputs.cache
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1_Кирилл\C#\Lab1b\Lab1b\obj\Debug\Lab1b.exe
+C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1_Кирилл\C#\Lab1b\Lab1b\obj\Debug\Lab1b.pdb
