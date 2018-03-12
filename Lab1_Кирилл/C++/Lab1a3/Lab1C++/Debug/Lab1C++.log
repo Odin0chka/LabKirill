@@ -1,5 +1,6 @@
 ﻿  stdafx.cpp
   Coordinate.cpp
+c:\users\matri\myfiles\projects\visual studio\sem6\labkirill\lab1_кирилл\c++\lab1a3\lab1c++\coordinate.cpp(28): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
   Lab1C++.cpp
   Создание кода...
-  Lab1C++.vcxproj -> C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\Lab1\C++\Lab1a3\Debug\Lab1C++.exe
+  Lab1C++.vcxproj -> C:\Users\Matri\MyFiles\Projects\Visual Studio\Sem6\LabKirill\Lab1_Кирилл\C++\Lab1a3\Debug\Lab1C++.exe
